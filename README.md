@@ -1,6 +1,6 @@
 # Links
 
-Below is a select list of web links to some select forum posts on Reddit and WD community forum. Someone with Linux/sysadmin skills might want to review this material.
+Below is a list of web links to select forum posts on Reddit and WD community forum. Someone with Linux/sysadmin skills might want to review this material.
   
   
 ##### Western Digital (WD) User Forum Links (username – Cybernut1):
