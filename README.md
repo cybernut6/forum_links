@@ -30,8 +30,4 @@ Guide I wrote to turn the public shares (directories) of the server private, bec
 Gave a detailed comparison between WD NAS and QNAP NAS servers to a potential buyer seeking recommendations for a NAS server. Gave the forum user a small demo of me running Oracle database on my QNAP NAS server (link to pictures of my Oracle installation in this post).
 
 2.	https://www.reddit.com/r/homelab/comments/3siadp/starting_my_home_lab_journey/cwxklhm  
-Pointed another potential buyer towards the features of a QNAP NAS server including the ability to run VMs, on which I was running my Oracle database.
-
-3.	https://www.reddit.com/r/qnap/comments/4kkr86/new_ts453a_owner_initially_wanted_a_nas_just_for/d3gkqzu  
-Provided a user with several tips on how to exploit many hidden networking options of a QNAP NAS server.
-
+Pointed another potential buyer towards the features of a QNAP NAS server including the ability to run VMs, on which I was running my Oracle database.  
