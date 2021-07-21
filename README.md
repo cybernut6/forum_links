@@ -1,6 +1,6 @@
 # Links
 
-Below is a list of web links to select forum posts I created on Reddit and WD community forum few years ago. If you click on the username it will bring back too many of my comments, so this is just some selected posts. Someone with Linux/sysadmin skills might want to review this material.
+Below is a list of web links to select forum posts I created on Reddit and WD community forum few years ago (in some screenshots in Reddit links my name is visible in the VNC window title). If you click on the username (Cybernut1) it will bring back too many of my forum comments, so this is just some selected posts. Someone with Linux/sysadmin skills might want to review this material.
   
   
 ##### Western Digital (WD) User Forum Links (my username – Cybernut1):
