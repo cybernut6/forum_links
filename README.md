@@ -3,7 +3,7 @@
 Below is a list of web links to select forum posts I created on Reddit and WD community forum few years ago. If you click on the username it will bring back too many of my comments, so this is just some selected posts. Someone with Linux/sysadmin skills might want to review this material.
   
   
-##### Western Digital (WD) User Forum Links (username – Cybernut1):
+##### Western Digital (WD) User Forum Links (my username – Cybernut1):
 
 1.	https://community.wd.com/t/phpmyadmin-sql-database-storage-location/99422  
 Helped user with technical MySQL database info (database location and security vulnerabilities).
@@ -24,7 +24,7 @@ Guide I wrote to enable SSH logging to show how intrusion attempts were constant
 Guide I wrote to turn the public shares (directories) of the server private, because WD did not give a way for users to configure this by themselves.
   
   
-##### Reddit Links (username – Cybernut1):
+##### Reddit Links (my username – Cybernut1):
 
 1.	https://www.reddit.com/r/homelab/comments/3wtxqf/comments_on_beginners_nas_considering_wd_my_cloud/cxzn9al  
 Gave a detailed comparison between WD NAS and QNAP NAS servers to a potential buyer seeking recommendations for a NAS server. Gave the forum user a small demo of me running Oracle database on my QNAP NAS server (link to pictures of my Oracle installation in this post).
